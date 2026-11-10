@@ -8,7 +8,8 @@
   <a href="https://www.linkedin.com/in/prestonnn"><img src="https://img.shields.io/badge/LinkedIn-prestonnn-0c0c0c?style=flat-square&labelColor=0c0c0c&color=2b2b2b" alt="LinkedIn"></a>
   <a href="https://prestonnn.com"><img src="https://img.shields.io/badge/Website-prestonnn.com-0c0c0c?style=flat-square&labelColor=0c0c0c&color=2b2b2b" alt="Website"></a>
   <a href="mailto:contact@prestonnn.com"><img src="https://img.shields.io/badge/Email-contact%40prestonnn.com-0c0c0c?style=flat-square&labelColor=0c0c0c&color=2b2b2b" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Preply-Top%205%25%20English%20Tutor-0c0c0c?style=flat-square&labelColor=0c0c0c&color=2fbf71" alt="Top 5% English Tutor on Preply">
+  <a href="https://github.com/prestonnbuilds"><img src="https://img.shields.io/badge/GitHub-prestonnbuilds-0c0c0c?style=flat-square&labelColor=0c0c0c&color=2b2b2b" alt="GitHub"></a>
+  <a href="https://preply.in/PRESTON6EN23034209102?ts=17943477"><img src="https://img.shields.io/badge/Preply-Top%205%25%20English%20Tutor-0c0c0c?style=flat-square&labelColor=0c0c0c&color=2fbf71" alt="Top 5% English Tutor on Preply — book a lesson"></a>
 </p>
 
 <img src="assets/about.png" width="100%" alt="About — Practice what I teach">
@@ -36,6 +37,7 @@ In one year I reached conversational fluency in Spanish and French while complet
 <li>Formulated customized learning plans and high‑volume immersion strategies tailored to diverse cultural backgrounds and professional goals.</li>
 <li>Trained non‑native speakers to build conversational speed, master real‑world vocabulary, and overcome speaking anxiety using structured deliberate practice frameworks.</li>
 </ul>
+<p><a href="https://preply.in/PRESTON6EN23034209102?ts=17943477">View my Preply profile ↗</a></p>
 </details>
 
 <details>
@@ -90,7 +92,9 @@ In one year I reached conversational fluency in Spanish and French while complet
 <p>
 <b>LinkedIn</b>&nbsp; <a href="https://www.linkedin.com/in/prestonnn">linkedin.com/in/prestonnn</a><br>
 <b>Website</b>&nbsp; <a href="https://prestonnn.com">prestonnn.com</a><br>
-<b>Email</b>&nbsp; contact@prestonnn.com
+<b>Email</b>&nbsp; contact@prestonnn.com<br>
+<b>GitHub</b>&nbsp; <a href="https://github.com/prestonnbuilds">github.com/prestonnbuilds</a><br>
+<b>Preply</b>&nbsp; <a href="https://preply.in/PRESTON6EN23034209102?ts=17943477">Book a lesson ↗</a>
 </p>
 </td>
 </tr>
