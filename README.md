@@ -66,7 +66,17 @@ In one year I reached conversational fluency in Spanish and French while complet
 
 <details open>
 <summary><b>Genuitifully</b> &nbsp;·&nbsp; Founder &nbsp;·&nbsp; October 2026 – Present</summary>
-<p>Building and architecting <b>Genuitifully</b>, a proprietary gamified SaaS platform designed to promote and incentivize personal and community resourcefulness.</p>
+<p>I founded Genuitifully on a simple belief: poverty won’t be solved by encouraging everyone to become a millionaire. It will be solved by building an economy where ordinary work supports a decent life.</p>
+<p>Genuitifully is a gamified platform that helps people and communities build economic resilience, so they can prepare for downturns, recover faster, and choose steady, shared growth over boom-and-bust.</p>
+<p>As founder, my roadmap to lead the company end to end is as follows:</p>
+<ul>
+<li><b>Product:</b> Build our first app, a savings game that makes budgeting feel like beating your high score.</li>
+<li><b>Brand:</b> Direct the company’s visual identity, including the logo system, color palette, typography, and social media assets.</li>
+<li><b>Messaging:</b> Write the company’s mission, positioning, and slogan, “Ingenuity, played beautifully.”</li>
+<li><b>Global reach:</b> Launch a multilingual website in eight languages, drawing on my own background as a speaker of seven languages.</li>
+<li><b>Partnerships:</b> Build a community of early testers, partners, and press who share the mission.</li>
+</ul>
+<p>A better economy isn’t something we wait for. It’s something we practice, together.</p>
 </details>
 
 <details>
@@ -82,7 +92,19 @@ In one year I reached conversational fluency in Spanish and French while complet
 
 <details>
 <summary><b>Polyfluencity</b> &nbsp;·&nbsp; Founder &amp; Transformational Life Coach &nbsp;·&nbsp; July 2026 – Present</summary>
-<p>Document and teach proven frameworks that help people accomplish ambitious goals in months, not years, in a fun‑first way — I practice what I teach and give people actionable systems to achieve anything.</p>
+<p>I founded Polyfluencity to help people close the gap between who they are and who they want to become. I use structured goal frameworks to turn big ambitions into steady, measurable progress.</p>
+<p>As Founder, I set the vision, build the coaching method, and run the business end to end. As a Transformational Life Coach, I work one-on-one with clients to clarify what they want, find what’s holding them back, and build habits that last.</p>
+<p><b>What I do:</b></p>
+<ul>
+<li>Design and refine Polyfluencity’s own goal-setting and accountability frameworks, which turn long-term vision into concrete action plans</li>
+<li>Lead one-on-one coaching sessions on personal growth, mindset, career direction, and life transitions</li>
+<li>Help clients spot limiting beliefs and replace them with practical, sustainable routines</li>
+<li>Coach across languages and cultures, drawing on fluency in seven languages (English, Japanese, Spanish, Mandarin, French, Portuguese and Korean)</li>
+<li>Build the brand, client programs and content strategy from the ground up</li>
+<li>Apply my 9 years in tech to use systems thinking and simple tools that keep clients’ progress visible and on track</li>
+</ul>
+<p><b>My approach:</b></p>
+<p>Real transformation is part mindset and part method. I pair empathetic, client-centered coaching with clear structure, so clients feel supported and also see results.</p>
 </details>
 
 <details>
