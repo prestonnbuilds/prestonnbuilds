@@ -66,6 +66,11 @@ In one year I reached conversational fluency in Spanish and French while complet
 
 <details open>
 <summary><b>Genuitifully</b> &nbsp;·&nbsp; Founder &nbsp;·&nbsp; October 2026 – Present</summary>
+<p><a href="https://genuitifully.com"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/genuitifully-mark-white.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/genuitifully-mark-black.svg">
+  <img src="assets/genuitifully-mark-black.svg" width="56" alt="Genuitifully logo">
+</picture></a></p>
 <p>I founded Genuitifully on a simple belief: poverty won’t be solved by encouraging everyone to become a millionaire. It will be solved by building an economy where ordinary work supports a decent life.</p>
 <p>Genuitifully is a gamified platform that helps people and communities build economic resilience, so they can prepare for downturns, recover faster, and choose steady, shared growth over boom-and-bust.</p>
 <p>As founder, my roadmap to lead the company end to end is as follows:</p>
@@ -77,6 +82,7 @@ In one year I reached conversational fluency in Spanish and French while complet
 <li><b>Partnerships:</b> Build a community of early testers, partners, and press who share the mission.</li>
 </ul>
 <p>A better economy isn’t something we wait for. It’s something we practice, together.</p>
+<p><a href="https://genuitifully.com">Visit genuitifully.com ↗</a></p>
 </details>
 
 <details>
