@@ -55,7 +55,7 @@ In one year I reached conversational fluency in Spanish and French while complet
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats.gif">
   <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.gif">
-  <img src="assets/stats-light.gif" width="100%" alt="3,000+ sessions · Top 5% on Preply · 7 languages · 4.0 GPA">
+  <img src="assets/stats-light.gif" width="100%" alt="4,000+ sessions · Top 5% on Preply · 7 languages · 4.0 GPA">
 </picture>
 
 <picture>
@@ -87,7 +87,7 @@ In one year I reached conversational fluency in Spanish and French while complet
 
 <details>
 <summary><b>Preply</b> &nbsp;·&nbsp; English Tutor &nbsp;·&nbsp; December 2024 – Present</summary>
-<p>Delivered <b>3,000+ personalized 1‑on‑1 English sessions</b> to adult learners and professionals across the Americas, Europe, Africa, and Asia, helping them speak fluently and confidently in months rather than years.</p>
+<p>Delivered <b>4,000+ personalized 1‑on‑1 English sessions</b> to adult learners and professionals across the Americas, Europe, Africa, and Asia, helping them speak fluently and confidently in months rather than years.</p>
 <ul>
 <li>Recognized in the <b>Top 5%</b> of global English tutors on Preply for outstanding student satisfaction, retention, and lesson completion rates.</li>
 <li>Formulated customized learning plans and high‑volume immersion strategies tailored to diverse cultural backgrounds and professional goals.</li>
